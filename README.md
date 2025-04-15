@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://burguer-typescript.vercel.app/">🔗 Acesse o projeto em produção</a>
+  <a href="https://fast-burguer-bay.vercel.app/">🔗 Acesse o projeto em produção</a>
 </p>
 
 ---
