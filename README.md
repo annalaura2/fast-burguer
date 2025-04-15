@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://burguer-typescript.vercel.app/">
-    <img src="./public/burguer-apresentation" alt="Hamburgueria Thumbnail" />
+    <img src="apresentação.png" alt="Hamburgueria Thumbnail" />
   </a>
 </p>
 
